@@ -1,0 +1,8 @@
+{:full-name "kit/kit_clojure_guestbook_api"
+ :ns-name   "kit.kit-clojure-guestbook-api"
+ :sanitized "kit/kit_clojure_guestbook_api"
+ :name      "kit_clojure_guestbook_api"
+ :modules   {:root         "modules"
+             :repositories [{:url  "https://github.com/kit-clj/modules.git"
+                             :tag  "master"
+                             :name "kit-modules"}]}}
